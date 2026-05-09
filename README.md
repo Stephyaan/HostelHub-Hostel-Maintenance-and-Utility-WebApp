@@ -1,3 +1,3 @@
 ﻿# HostelHub-Hostel-Maintenance-and-Utility-WebApp
 Live at: 
-https://hostel-hub-hostel-maintenance-and-utility-w-stephyaans-projects.vercel.app/
+https://hostelhub-stephyaans-projects.vercel.app/
