@@ -4,5 +4,5 @@ https://hostel-hub-ochre-ten.vercel.app/
 
 Frontend: Vercel
 Backend: Render (Django REST API)
-Database: SQLite (or PostgreSQL if you upgrade later)
+Database: SQLite (or PostgreSQL if upgrade later)
 Version Control: GitHub
