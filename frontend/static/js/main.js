@@ -1,5 +1,4 @@
-const API_URL = "/api/";
-
+const API_URL = "https://hostelhub-hostel-maintenance-and-utility.onrender.com/api/";
 console.log('✅ HostelHub API Helper v1.2.1 Loaded');
 
 // --- Global Design & Personalization ---
